@@ -17,7 +17,7 @@ class CrimeFragment : Fragment()
     private lateinit var titleField: EditText
     private lateinit var dateButton: Button
     private lateinit var solvedCheckBox: CheckBox
-    
+    //comment
     override fun onCreate(savedInstanceState: Bundle?)
     
     {
